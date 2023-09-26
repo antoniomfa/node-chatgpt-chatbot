@@ -1,1 +1,1 @@
-# node-chatgpt-chatbot
+# Source API from https://openai.com/product
