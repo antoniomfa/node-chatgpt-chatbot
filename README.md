@@ -1,1 +1,1 @@
-# Source API from https://openai.com/product
+# Source API from https://openai.com
